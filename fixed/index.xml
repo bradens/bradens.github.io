@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fixed on Braden Simpson</title>
+    <link>https://bradens.co/fixed/</link>
+    <description>Recent content in Fixed on Braden Simpson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 19 Apr 2016 00:12:49 -0600</lastBuildDate>
+    <atom:link href="https://bradens.co/fixed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>about</title>
+      <link>https://bradens.co/about/</link>
+      <pubDate>Tue, 19 Apr 2016 00:12:49 -0600</pubDate>
+      
+      <guid>https://bradens.co/about/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m a product focused software developer with a passion for building startups. I love creating things that people enjoy using.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;ve co-founded &lt;a href=&#34;https://leanpub.com&#34;&gt;Leanpub&lt;/a&gt; and &lt;a href=&#34;https://riipen.com&#34;&gt;Riipen&lt;/a&gt;, and am currently working at &lt;a href=&#34;https://leanpub.com&#34;&gt;Leanpub&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I casually develop in games, productivity software and vim-related tooling.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://bradens.co/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bradens.co/</guid>
+      <description>&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+  &lt;head&gt;
+    &lt;link rel=&#34;canonical&#34; href=&#34;https://bradens.co/blog&#34;/&gt;
+    &lt;meta http-equiv=&#34;content-type&#34; content=&#34;text/html; charset=utf-8&#34;/&gt;
+    &lt;meta http-equiv=&#34;refresh&#34; content=&#34;0;url=/blog&#34;/&gt;
+  &lt;/head&gt;
+&lt;/html&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
