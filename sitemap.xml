@@ -2,18 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://bradens.co/</loc>
+    <loc>http://bradens.github.io/</loc>
     <lastmod>2016-04-19T00:12:49-06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://bradens.co/about/</loc>
+    <loc>http://bradens.github.io/about/</loc>
     <lastmod>2016-04-19T00:12:49-06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bradens.co/</loc>
+    <loc>http://bradens.github.io/</loc>
   </url>
   
 </urlset>
